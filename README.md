@@ -1,4 +1,4 @@
-# Forked Notice
+# Notice
 
 This fork is used to maintain a own copy of Fatih's excellent color packages. 
 
